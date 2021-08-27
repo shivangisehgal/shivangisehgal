@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋 I'm Shivangi Sehgal</h1>
 <h5 align="center">Sophomore at Delhi Technological University.</h5>
-<h3 align="center">I'm a Learner driven with enthusiasm.</h3>
+<h3 align="center">Believer of Continuous Learning!</h3>
 <img src="https://user-images.githubusercontent.com/83656526/131140715-b47b5d50-7618-4dfa-aade-958e580b2a7b.PNG")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivangisehgal&label=Profile%20views&color=0e75b6&style=flat" alt="shivangisehgal" /> </p>
