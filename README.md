@@ -14,7 +14,7 @@
 
 
 ## <pre> Hi! 👋 I'm Shivangi Sehgal. </pre>
-<img height="250" width="500" alt="GIF" align="right" src="https://user-images.githubusercontent.com/83656526/135708426-4678c684-d62e-4211-b7d7-b6921f8d58aa.gif">
+<img height="250" width="450" alt="GIF" align="right" src="https://user-images.githubusercontent.com/83656526/135708426-4678c684-d62e-4211-b7d7-b6921f8d58aa.gif">
 
 - 🌱 Pronouns : She/Her.
 - 🌱 Sophomore at Delhi Technological University.
