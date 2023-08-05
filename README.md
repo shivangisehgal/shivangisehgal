@@ -1,11 +1,6 @@
 <img align = "center" src = "https://user-images.githubusercontent.com/83656526/149811995-0e1d34fc-48df-45bb-ae3c-0c57e8490412.png" />
 
 ### *<div align="center">Programmer, Developer and Learner</div>*
-
-## ABOUT ME
- 👩‍💻 I’m a curious Flutter Developer and my research interests lie in Machine Learning, especially prediction models.
- 
- 🎓 Sophomore at Delhi Technological University (DTU).
  
 
 ## INTERESTS
