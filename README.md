@@ -10,7 +10,7 @@
 <samp>
 👨‍🎓 Final-year undergrad at Delhi Technological University (Formerly DCE)
 <br>
-💻 App Developer who likes building meaningfull mobile and web apps with Flutter.
+💻 App Developer who likes building meaningful mobile and web apps with Flutter.
 <br>
 📚 Currently on a quest to level up my skills in backend development and problem-solving using data structures and algorithms.
 <br>
