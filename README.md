@@ -6,17 +6,6 @@
  </samp>
 <div><br></div>
 
-## About Me
-<samp>
-👨‍🎓 Final-year undergrad at Delhi Technological University (Formerly DCE)
-<br>
-💻 App Developer who likes building meaningful mobile and web apps with Flutter.
-<br>
-📚 Currently on a quest to level up my skills in backend development and problem-solving using data structures and algorithms.
-<br>
-👩‍🎨 A design enthusiast and a hobbyist chef (only for my taste buds! 😄)
-</samp>
-
 ## Technologies I use
 <div align = "center">
  
