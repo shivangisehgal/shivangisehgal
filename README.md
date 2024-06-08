@@ -1,11 +1,5 @@
 <img align = "center" src = "https://user-images.githubusercontent.com/83656526/149811995-0e1d34fc-48df-45bb-ae3c-0c57e8490412.png" />
 
-<div align="center">
- <samp>
- As a developer with an emoji obsession, I code with a side of 🥹, debug with a dash of 😭, and my error messages often come with their own set of 🤪 reactions! Welcome to my world of coding and chaos! </div>
- </samp>
-<div><br></div>
-
 ## Technologies I use
 <div align = "center">
  
